@@ -17,7 +17,7 @@
       android:id="@+id/student_data"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
-      android:text="@string/joao_goncalves_28247"
+      android:text="@string/Joao_Goncalves_28247"
       android:layout_below="@id/page_identifier"
       android:layout_centerHorizontal="true"
       android:layout_marginTop="16dp"/>
@@ -26,7 +26,7 @@
       android:id="@+id/close_activity_button"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
-      android:text="Fechar"
+      android:text="@string/fechar_at2"
       android:layout_below="@id/student_data"
       android:layout_centerHorizontal="true"
       android:layout_marginTop="32dp"/>
